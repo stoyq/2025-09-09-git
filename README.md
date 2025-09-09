@@ -4,3 +4,5 @@
 - `pull` : `git pull origin main` will bring down code from the branch in the remote
 
 - another test to check user.name and user.email
+
+- `log` : shows you the history
